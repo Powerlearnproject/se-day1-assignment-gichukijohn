@@ -103,14 +103,14 @@ iii. Project managers
        Collaboration and Integration: Many IDEs support integration with version control systems, making it easier for teams to collaborate on code. 
        examples include Visual Studio code,Pycharm,Eclipse,Netbeans
 
-       2. Version Control Systems
+       2. Version Control Systems(VCS)
        Collaboration: VCS allows multiple developers to work on the same codebase simultaneously without overwriting each other’s changes.
        Change Tracking: VCS tracks every change made to the codebase, including who made the change and why. 
        Branching and Merging: VCS enables developers to create branches, which are isolated copies of the codebase where new features or bug fixes can be developed 
         without affecting the main code. 
        Backup and Recovery: With VCS, the entire code history is stored in a repository, which acts as a backup.
        Continuous Integration: VCS is integral to continuous integration/continuous deployment (CI/CD) workflows.
-       examples include Git,Subversion and Mercurial
+       examples include Git,Subversion and Mercurial.
 
 
 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
